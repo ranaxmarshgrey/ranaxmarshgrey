@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jayanth Gowda 👋</h1>
 
 <p align="center">
-  B.Tech CSE @ PES University, Bengaluru &nbsp;·&nbsp; Graduating 2027 &nbsp;·&nbsp; CGPA 7.64
+  B.Tech CSE @ PES University, Bengaluru &nbsp;·&nbsp; Graduating 2027 &nbsp;·&nbsp; 
 </p>
 
 <p align="center">
